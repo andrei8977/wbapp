@@ -21,7 +21,7 @@ $ docker-compose up
 $ docker-compose up --build
 ```
 
-## Checking database in pgAdmin
+## Checking database in pgAdmin and Google SpreadSheet Tables
 
 Visit "http://localhost:5050/" to check PostgreSQL database:
 1) Register Server with any name
