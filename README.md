@@ -9,6 +9,7 @@ App is loading data from WB, storing it in PostgreSQL and Google Spreadsheets
 $ git clone https://github.com/andrei8977/wbapp
 $ cd wbapp
 ```
+Add WB Token to .env file
 
 ## Compile and run the project
 
