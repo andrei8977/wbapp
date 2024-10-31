@@ -27,3 +27,4 @@ Visit "http://localhost:5050/" to check PostgreSQL database:
 1) Register Server with any name
 2) In tab "Connection" type host: "pg_db", username: "root", password: "root"
 3) Check "my_db" database 
+4) Check Google folder with tables: https://drive.google.com/drive/folders/1HtPAEUYpQ2A-yO2lhZi7FToacvvmCkRl
